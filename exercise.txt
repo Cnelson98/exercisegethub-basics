@@ -1,0 +1,10 @@
+1. I would descrtibe the terminal as a tool you use to create or open things using other apps, and websites.
+
+2. The major difference between git and github is git is whats used to  push things to github that is
+   only on your machine that is used to manage files. And github is hosted only on the web , its a service , and you can use it to clone projects.
+
+3. The steps to fork GitHub repository:
+   
+    step 1-    Go to github repository 
+    step 2 -   Click fork button
+    step 3 -   Wait for it to fork into your GitHub
